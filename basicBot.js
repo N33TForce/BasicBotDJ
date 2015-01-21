@@ -222,7 +222,7 @@
             ],
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
-            motdEnabled: false,
+            motdEnabled: true,
             motdInterval: 5,
             motd: "Please check all rules on my twitch page @ htttp://www.twitch.tv/ienyo",
             filterChat: true,
